@@ -1,0 +1,69 @@
+<html>
+  <head>
+      <meta charset="utf-8" author="Jaume Ricart" lang="ca">
+      <title>Horari</title>
+
+  </head>
+  <body bgcolor="lightpink">
+     <table border="5"bgcolor="PaleGoldenRod" width="50%" align="center">
+
+      <tr>
+        <td width="20%"height="30px"></td>
+        <th width="16%"bgcolor="Snow">Dl</th>
+        <th width="16%"bgcolor="Snow">Dt</th>
+        <th width="16%"bgcolor="Snow">Dx</th>
+        <th width="16%"bgcolor="Snow">Dj</th>
+        <th width="16%"bgcolor="Snow">Dv</th>
+      </tr>
+
+      <tr>
+        <th height="60px">16-17h</th>
+        <td bgcolor="DarkTurquoise"><center>M8</center></td>
+        <td bgcolor="hotpink"><center>M6</center></td>
+        <td bgcolor="Orange"><center>TUT</center></td>
+        <td bgcolor="LightCoral"><center>M7</center></td>
+        <td bgcolor="DarkTurquoise"><center>M8</center></td>
+      </tr>
+
+      <tr>
+        <th height="80px">17-18h</th>
+        <td bgcolor="DarkTurquoise"><center>M8</center></td>
+        <td bgcolor="hotpink"><center>M6</center></td>
+        <td bgcolor="MediumAquaMarine"><center>M9</center></td>
+        <td bgcolor="LightCoral"><center>M7</center></td>
+        <td bgcolor="DarkTurquoise"><center>M8</center></td>
+      </tr>
+
+      <tr>
+        <th height="40px">18-18:30h</th>
+        <td colspan="5"bgcolor="Skyblue"><center>PATI</center></td>
+
+      </tr>
+
+      <tr>
+        <th height="60px">18:30-19:30h</th>
+        <td bgcolor="hotpink"><center>M6</center></td>
+        <td bgcolor="DarkTurquoise"><center>M8</center></td>
+        <td bgcolor="MediumAquaMarine"><center>M9</center></td>
+        <td bgcolor="MediumAquaMarine"><center>M9</center></td>
+        <td bgcolor="LightCoral"><center>M7</center></td>
+      </tr>
+
+      <tr>
+        <th height="60px">19:30-20:30h</th>
+        <td bgcolor="hotpink"><center>M6</center></td>
+        <td bgcolor="DarkTurquoise"><center>M8</center></td>
+        <td bgcolor="MediumAquaMarine"><center>M9</center></td>
+        <td bgcolor="DarkTurquoise"><center>M8</center></td>
+        <td bgcolor="LightCoral"><center>M7</center></td>
+      </tr>
+    </table>
+  </body>
+
+
+
+
+
+
+
+</html>
