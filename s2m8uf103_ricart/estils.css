@@ -1,0 +1,271 @@
+   body{
+  margin: 0;
+  padding: 0;
+  background-color: #e6e8eb;
+  font-family: 'Lucida Grande', Tahoma, San Francisco, Segoe UI, Roboto;
+}
+
+#barra {
+  height: 43px;
+  background-color: #3B5998;
+  position: fixed;
+  z-index: 10000;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+#contenidor{
+
+  width: 852px;
+  background-color: #FFF;
+  margin: 0 auto;
+}
+
+#portada{
+  height: 204px;
+  background-image: url(img/jordan.jpg);
+  margin-top: 43px;
+}
+
+#nom{
+
+  width: 320px;
+  position:relative;
+  top: 165px;
+  left: 200px;
+  color: #FFF;
+  text-shadow: 2px 2px 5px #000;
+
+}
+
+#perfil{
+  background-color: pink;
+  border: solid 4px white;
+  border-radius: 4px;
+  position: relative;
+  left: 10px;
+  top: 7px;
+  box-shadow: 0 0 3px #000;
+}
+
+#menu{
+  height: 44px;
+  background-color: #e6e8eb;
+  padding:0;
+  margin: 0 0 0 192px;
+  width: 475px;
+  }
+
+#menu li{
+  height: 44px;
+  float: left;
+  padding: 0 18px;
+  display: block;
+  font-weight: bold;
+  color: #3B5998;
+  background-color: #FFF;
+  margin: 0 0 0 1px;
+  line-height: 44px;
+
+}
+
+#menu li:hover{
+  color: #000;
+  background-image: url(img/selec.gif);
+  background-repeat: no-repeat;
+  background-position: 50% 37px;
+}
+#contingut{
+  border-top: 1px solid #e6e8eb;
+}
+
+.esquerre{
+  width: 323px;
+  background-color: pik;
+  margin:10px 0;
+  border: solid 1px #CCC;
+  border-radius: 3px;
+}
+
+.esquerre h4{
+  background-color: yellow;
+  height: 14px;
+  padding: 5px;
+  margin: 0;
+  font-weight: normal;
+  font-size: 18px;
+  text-indent: 36px;
+  background-image: url(img/lateral.png);
+  background-repeat: no-repeat;
+}
+
+
+
+#presentacio li {
+    height: 40px;
+    border-top: solid 1px grey;
+    font-size: 12px;
+    line-height: 30px;
+}
+
+.estudi{
+  list-style-image: url(img/iconetes/icones_estudis.png);
+}
+
+.domicili{
+  list-style-image: url(img/iconetes/icones_domicili.png);
+}
+
+.treball{
+  list-style-image: url(img/iconetes/icones_feina.png);
+}
+
+.relacio{
+  list-style-image: url(img/iconetes/icones_sentimental.png);
+}
+
+.aniversari{
+  list-style-image: url(img/iconetes/icones_esdeveniments.png);
+}
+
+.religio{
+  list-style-image: url(img/iconetes/icones_rss.png);
+}
+
+#fotos h4{
+  background-position: 0 -24px;
+}
+
+#fotos li{
+  background-color: yellow;
+  display: block;
+  width: 99px;
+  height: 99px;
+  margin: 4px;
+  float: left;
+  background-size: 99px 99px;
+  color: transparent;
+}
+
+#fotos ul{
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#fotos ul li:hover{
+   opacity: 0.8;
+   background-color: grey;
+}
+
+.esquerre ul{
+margin-top: 20px;
+}
+
+#amics h4{
+  background-position: 0 -48px;
+}
+
+#f01{
+  background-image:url("img/fotos/f01.jpeg");
+}
+
+#f02{
+  background-image:url("img/fotos/f02.jpeg");
+}
+
+#f03{
+  background-image:url("img/fotos/f03.jpeg");
+}
+
+#f04{
+  background-image:url("img/fotos/f04.jpeg");
+}
+
+#f05{
+  background-image:url("img/fotos/f05.jpeg");
+}
+
+#f06{
+  background-image:url("img/fotos/f06.jpeg");
+}
+
+#f07{
+  background-image:url("img/fotos/f07.jpeg");
+}
+
+#f08{
+  background-image:url("img/fotos/f08.jpeg");
+}
+
+#f09{
+  background-image:url("img/fotos/f09.jpeg");
+}
+
+#amics li{
+  background-color: yellow;
+  display: block;
+  width: 99px;
+  height: 99px;
+  margin: 4px;
+  float: left;
+  background-size: 99px 99px;
+  color: white;
+  line-height: 178px;
+  text-shadow: 0 0 2px #000;
+  text-indent: 5px;
+}
+
+#amics ul{
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+#amics ul li:hover{
+   opacity: 0.8;
+   background-color: grey;
+}
+
+#a01{
+  background-image:url("img/perfil.jpg");
+}
+
+#a02{
+  background-image:url("img/perfil.jpg");
+}
+
+
+#a03{
+  background-image:url("img/perfil.jpg");
+}
+
+
+#a04{
+  background-image:url("img/perfil.jpg");
+}
+
+
+#a05{
+  background-image:url("img/perfil.jpg");
+}
+
+
+#a06{
+  background-image:url("img/perfil.jpg");
+}
+
+
+#a07{
+  background-image:url("img/perfil.jpg");
+}
+
+
+#a08{
+  background-image:url("img/perfil.jpg");
+}
+
+
+#a09{
+  background-image:url("img/perfil.jpg");
+}
